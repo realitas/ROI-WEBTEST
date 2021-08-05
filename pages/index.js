@@ -6,7 +6,7 @@ import Script from 'next/script'
 import { GTMProvider } from '@elgorditosalsero/react-gtm-hook'
 
 export default function Home() {
-  const gtmParams = { id: 'GTM-5DQSNJP' }
+  const gtmParams = { id: 'GTM-TRMVP3Q' }
 
   return (
     <GTMProvider state={gtmParams}>
